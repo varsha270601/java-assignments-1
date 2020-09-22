@@ -6,7 +6,7 @@ public class fibonacci {
         Scanner sc = new Scanner(System.in);
         count = sc.nextInt();
         System.out.println("fibonacci series of " + count + " numbers:");
-        int i -1;
+        int i;
         while (i < count) {
             System.out.print(num1 + " ");
             int sumOfPrevTwo-num1+num2
